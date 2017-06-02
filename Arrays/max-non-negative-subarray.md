@@ -11,6 +11,5 @@ Maximum sub-array is defined in terms of the sum of the elements in the sub-arra
 Solution
 Java
 
-https://github.com/mankenavenkatesh/javaexperiments/blob/2ebdea42942896a2fa6876ec34a845901e3a57aa/algorithms/src/test/java/com/learn/algorithms/arrays/MaxNonNegativeSubArray.java
-
+https://github.com/mankenavenkatesh/javaexperiments/blob/master/algorithms/src/main/java/com/learn/algorithms/arrays/MaxNonNegativeSubArray.java
 

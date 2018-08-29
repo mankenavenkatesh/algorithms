@@ -1,3 +1,6 @@
-# Description of algorithm questions and Solutions
-
-Problem Statement
+This repository contains various algorithms defined.
+Every algorithm contains 
+- Problem Statement
+- Solution
+- It's implementation in various languages
+- References

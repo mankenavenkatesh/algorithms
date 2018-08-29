@@ -1,6 +1,6 @@
 This repository contains various algorithms defined.
 Every algorithm contains 
-- * Problem Statement
-- * Solution
-- * It's implementation in various languages
-- * References
+* Problem Statement
+* Solution
+* It's implementation in various languages
+* References
